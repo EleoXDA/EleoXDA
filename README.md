@@ -1,6 +1,6 @@
 Hi there 👋
 
-My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA and Junior in Theming and Android Development.
+My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA and Junior in Theming and Android Development. I have edited several apps and have worked with custom ROM/firmware for several phones. 
 
 - 🔭 I’m currently working on expanding my programming knowledge before I get start to work
 - 👯 I’m looking to collaborate on mobile developments like iOS and Android apps
