@@ -1,5 +1,7 @@
 Hi there 👋
 
+My nickname is Eleo. I am coming from XDA Developers Forum.
+
 - 🔭 I’m currently working on expanding my programming knowledge before I get start to work
 - 👯 I’m looking to collaborate on mobile developments like iOS and Android apps
 
