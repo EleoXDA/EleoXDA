@@ -7,7 +7,7 @@ My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA 
 - My next stop is learning Swift for iOS development.
 - I’m looking to collaborate on mobile developments like iOS and Android apps.
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 [![EleoXDA github stats](https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
