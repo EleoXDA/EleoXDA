@@ -1,6 +1,6 @@
-![github-header-image](https://user-images.githubusercontent.com/27622683/170840453-233d4294-86dc-4746-bb5b-d2589e2b0894.png)
+![github-header-image (10)](https://user-images.githubusercontent.com/27622683/170840635-51d28fa8-4d52-40a1-a8de-08efb21312fb.png)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_text=My%20Page%20Visitors&left_color=green&right_color=navy)
+(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EleoXDA&theme=vue)
 
 My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA and Junior in Theming and Android Development. I have edited several apps and have worked with custom ROM/firmware for several phones. 
 
