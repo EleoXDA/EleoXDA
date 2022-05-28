@@ -13,5 +13,3 @@ My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_text=My%20Page%20Visitors&left_color=red&right_color=blue)
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EleoXDA&theme=vue
