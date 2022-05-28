@@ -14,4 +14,4 @@ My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_text=My%20Page%20Visitors&left_color=red&right_color=blue)
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEleoXDA1212%2Fhit-counter
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{EleoXDA}1212%2Fhit-counter
