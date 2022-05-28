@@ -1,4 +1,4 @@
-Hi there ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_text=My%20Page%20Visitors&left_color=green&right_color=red)
+Hi there ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_text=My%20Page%20Visitors&left_color=red&right_color=green)
 
 My nickname is Eleo. I am coming from XDA Developers Forum. I am advanced in QA and Junior in Theming and Android Development. I have edited several apps and have worked with custom ROM/firmware for several phones. 
 
