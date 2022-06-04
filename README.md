@@ -8,7 +8,8 @@ I am coming from XDA Developers Forum. I am advanced in QA and Junior in Android
 - My next stop is learning Swift for iOS development.
 - I’m looking to collaborate on mobile developments like iOS and Android apps.
 
+![EleoXDA github stats](https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=dark&hide_rank=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=8&layout=compact)
 
-[![EleoXDA github stats](https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=dark&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
