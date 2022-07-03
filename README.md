@@ -30,12 +30,17 @@ These are the technologies and tools that I have been using and/or learning:
 
 ## :computer:  My GitHub Stats  :computer:
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/EleoXDA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=dark&hide_rank=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
 </div>
-<div align="left">
+
+<div align="center">
+  <img align=center height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=merko" />
+</div>
+
+<div align="center">
   <img width="844em" src="https://activity-graph.herokuapp.com/graph?username=eleoxda&theme=xcode"/>
   <img width="844em" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
