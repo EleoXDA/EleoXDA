@@ -36,5 +36,6 @@ These are the technologies and tools that I have been using and/or learning:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
 </div>
 <div align="left">
+  <img width="844em" src="https://activity-graph.herokuapp.com/graph?username=eleoxda&theme=xcode"/>
   <img width="844em" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 </div>
