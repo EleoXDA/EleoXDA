@@ -5,10 +5,10 @@
 ## :information_desk_person:  About Me  :information_desk_person:
 #### I am a mobile developer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices.
 
-- I know Bash and XML, and currently expanding my programming knowledge in Java and Kotlin for Android Studio, and Dart for Flutter.
-- I am learning SQL, ECMAscript 6.0, RubyOnRails and etc on LeWagon Bootcamp
+- I know Bash and XML, and currently expanding my programming knowledge in Kotlin and Flutter.
+- I will receive certificate of LeWagon Bootcamp on SQL, JavaSript and RubyOnRails.
 - My next stop is learning Swift for iOS development.
-- I’m looking to collaborate on mobile developments like iOS and Android apps and MODs
+- I’m looking to collaborate on mobile developments
 
 ---
 
@@ -30,15 +30,12 @@ These are the languages, frameworks and tools that I have been using:
 
 <div align="center">
   <a href="https://github.com/EleoXDA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=light&hide_rank=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=light&hide_rank=false"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white" />
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
 </div>
 
 <div align="center">
-  <img align=center height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white" />
-</div>
-
-<div align="center">
-  <img width="844em" src="https://activity-graph.herokuapp.com/graph?bg_color=white&username=eleoxda"/>
-  <img width="844em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+  <img width="750em" src="https://activity-graph.herokuapp.com/graph?bg_color=white&username=eleoxda"/>
+  <img width="750em" src="./profile-3d-contrib/profile-green-animate.svg"/>
 </div>
