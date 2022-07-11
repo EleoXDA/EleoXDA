@@ -34,11 +34,9 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="https://github.com/EleoXDA">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=cmake,dockerfile,cpp,c++,cc,cp,cxx,h,h++,hh,hpp,hxx,inc,inl,ino,ipp,ixx,re,tcc,tpp"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=light&hide_rank=true&include_all_commits=true&hide_title=true"/>
 </div>
-
 <div align="center">
-  <img width="750em" src="https://activity-graph.herokuapp.com/graph?bg_color=white&username=eleoxda&hide_title=true"/>
-  <img width="750em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+  <img width="750em" src="https://activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
 </div>
