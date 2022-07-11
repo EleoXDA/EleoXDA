@@ -26,7 +26,7 @@ These are the languages, frameworks and tools that I have been using:
 
 ---
 
-## :computer:  My GitHub Stats  :computer:
+## :computer:  My GitHub Stats & Contributions  :computer:
 
 <div align="center">
   <a href="https://github.com/EleoXDA">
@@ -34,11 +34,11 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="https://github.com/EleoXDA">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=light&hide_rank=true&include_all_commits=true&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=light&hide_rank=true&include_all_commits=true&hide_title=true"/>
 </div>
 
 <div align="center">
-  <img width="750em" src="https://activity-graph.herokuapp.com/graph?bg_color=white&username=eleoxda"/>
+  <img width="750em" src="https://activity-graph.herokuapp.com/graph?bg_color=white&username=eleoxda&hide_title=true"/>
   <img width="750em" src="./profile-3d-contrib/profile-green-animate.svg"/>
 </div>
