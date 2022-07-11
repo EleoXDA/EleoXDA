@@ -30,9 +30,12 @@ These are the languages, frameworks and tools that I have been using:
 
 <div align="center">
   <a href="https://github.com/EleoXDA">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=true&theme=light&hide_rank=false"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
+</div>
+<div align="center">
+  <a href="https://github.com/EleoXDA">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=6&layout=compact"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=light&hide_rank=true&include_all_commits=true&hide_title=true"/>
 </div>
 
 <div align="center">
