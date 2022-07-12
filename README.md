@@ -34,7 +34,7 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="https://github.com/EleoXDA">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=cmake,dockerfile,cpp,c++,cc,cp,cxx,h,h++,hh,hpp,hxx,inc,inl,ino,ipp,ixx,re,tcc,tpp"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=cmake,c,c%2B%2B"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=light&hide_rank=true&include_all_commits=true&hide_title=true"/>
 </div>
 <div align="center">
