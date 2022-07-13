@@ -38,5 +38,10 @@ These are the languages, frameworks and tools that I have been using:
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=true&hide_title=false"/>
 </div>
 <div align="center">
+  <a href="https://github.com/EleoXDA">
   <img width="750em" src="https://activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
+</div>
+<div align="center">
+  <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+  <img width="750em" src="./profile-3d-contrib/profile-green-animate.svg"/>
 </div>
