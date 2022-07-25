@@ -21,7 +21,7 @@ These are the languages, frameworks and tools that I have been using:
 | :-: | :-: | :-: | :-: |
 | Programming Languages | Kotlin | Dart | Swift, Java |
 | Frameworks | - | Flutter | React Native |
-| Tools | Android Studio, VSCode, IntelliJ IDEA | - | - |
+| Tools | Android Studio, VSCode, IntelliJ IDEA | Visual Studio | XCode |
 | Operating Systems | Windows, Linux | - | MacOS |
 
 ---
