@@ -20,7 +20,7 @@ These are the languages, frameworks and tools that I have been using:
 | | Proficient | Competent | Beginner |
 | :-: | :-: | :-: | :-: |
 | Programming Languages | Kotlin | Dart, Ruby | Swift, Java |
-| Frameworks | - | Flutter| JavaScript, React Native |
+| Frameworks | - | Flutter, Ruby on Rails| JavaScript, React Native |
 | Tools | Android Studio, VSCode, IntelliJ IDEA | Visual Studio | XCode |
 | Operating Systems | Windows, Linux | - | MacOS |
 | Leisure | XML, CSV, HTML | JSON | |
