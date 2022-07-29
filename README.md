@@ -5,10 +5,10 @@
 ## :information_desk_person:  About Me  :information_desk_person:
 #### I am a mobile developer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices.
 
-- I know Bash and XML, and currently expanding my programming knowledge in Kotlin and Flutter. Expecting to receive Associate Android developer certificate by the end of 2022.
-- Expecting to receive certificate of LeWagon Bootcamp on SQL, JavaSript and RubyOnRails on September 2022
+- I started with simple Bash & XML, and currently expanding my programming knowledge in Kotlin and Flutter. Expecting to receive Associate Android developer certificate by the end of 2022.
+- I also am developing my Front-End development by joining full time Le Wagon bootcamp on SQL, JavaSript and RubyOnRails.
 - My next stop is learning Swift for iOS development.
-- I’m looking to collaborate on mobile developments
+- I’m looking to expand my collaborations on cross-platform and native mobile development
 
 ---
 
