@@ -44,5 +44,5 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-  <img width="750em" src="./profile-3d-contrib/profile-green-animate.svg"/>
+  <img width="750em" src="profile-3d-contrib/profile-green.svg"/>
 </div>
