@@ -23,7 +23,7 @@ These are the languages, frameworks and tools that I have been using:
 | Frameworks | - | Flutter, Ruby on Rails| JavaScript, React Native |
 | Tools | Android Studio, VSCode, IntelliJ IDEA | Visual Studio | XCode |
 | Operating Systems | Windows, Linux | - | MacOS |
-| Leisure | Bash, XML, CSV, HTML | JSON, SQL DB | |
+| Leisure | Bash, XML, CSV, HTML | JSON, SQL DB | - |
 
 ---
 
