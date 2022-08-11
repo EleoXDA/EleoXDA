@@ -19,11 +19,11 @@ These are the languages, frameworks and tools that I have been using:
 
 | | Proficient | Competent | Beginner |
 | :-: | :-: | :-: | :-: |
-| Programming Languages | Kotlin | Dart, Ruby | Swift, Java |
-| Frameworks | - | Flutter, Ruby on Rails| JavaScript, React Native |
+| Languages | Kotlin, Bash | Dart, Ruby, CSC, HTML, XML | Swift, Java |
+| Frameworks | - | Flutter, Ruby on Rails| JavaScript, Bootstrap CSS, Tailwind CSS, YAML, React Native |
 | Tools | Android Studio, VSCode, IntelliJ IDEA | Visual Studio | XCode |
 | Operating Systems | Windows, Linux | - | MacOS |
-| Leisure | Bash, XML, CSV, HTML | JSON, SQL DB | - |
+| Database (DB) | | SQL | - |
 
 ---
 
