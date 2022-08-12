@@ -28,15 +28,16 @@ These are the languages, frameworks and tools that I have been using:
 ## :computer:  My GitHub Stats & Contributions  :computer:
 
 <div align="center">
-  <a href="https://github.com/EleoXDA">
-  <img height="150em" src="profile-3d-contrib/pie_lang_only.svg"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=false&hide_title=false"/>
+  <a href="#">
+    <img height="160em" src="profile-3d-contrib/pie_lang_only.svg"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=false&hide_title=false"/>
 </div>
 <div align="center" margin->
-  <a href="https://github.com/EleoXDA">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/>
+  <a href="#">
+    <img height="220em" src="profile-3d-contrib/radar_contrib_only.svg"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/>
 </div>
 <div align="center">
-  <a href="https://github.com/EleoXDA">
-  <img width="550em" src="https://activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
+  <a href="#">
+  <img width="1000em" src="https://activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
 </div>
