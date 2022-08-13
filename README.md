@@ -20,7 +20,7 @@ These are the languages, frameworks and tools that I have been using:
 | | Proficient | Competent | Beginner |
 | :-: | :-: | :-: | :-: |
 | Languages | Kotlin | Bash, CSS, Dart, HTML, Ruby, SQL, XML | JavaScript, Java, Swift |
-| Frameworks | | Flutter, Rails | Bootstrap, Tailwind, YAML |
+| Frameworks | | Flutter, Rails | Bootstrap, Tailwind, Sass, YAML |
 | Tools | Android Studio, IntelliJ IDEA, VSCode | Visual Studio | XCode |
 | Operating Systems | Windows | Linux | MacOS |
 ---
