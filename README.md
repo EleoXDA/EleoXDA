@@ -6,7 +6,7 @@
 #### I am a mobile developer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices. Following that:
 
 - I started with simple Bash & XML, and currently expanded my programming knowledge to Kotlin and Flutter. Expecting to receive Associate Android developer certificate from Google.
-- I also am developing my Front-End side by joining full-time Le Wagon bootcamp on SQL, JavaScript and RubyOnRails.
+- I also am developing my FullStack side by joining full-time Le Wagon bootcamp on RubyOnRails (Ruby+SQL+HTML+CSS+JavaScript+Rails)
 - My next stop is learning Swift for iOS development.
 - I’m looking to expand my collaborations on cross-platform and native mobile development
 
