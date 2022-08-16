@@ -2,7 +2,7 @@
 # Hi there👋, I am I am Eleo (a.k.a. EleoXDA and Elbay Malik)
   
 ---
-## :information_desk_person:  About Me  :information_desk_person:
+## :information_desk_person:  About Me
 #### I am a mobile developer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices. Following that:
 
 - I started with simple Bash & XML, and currently expanded my programming knowledge to Kotlin and Flutter. Expecting to receive Associate Android developer certificate from Google.
@@ -12,7 +12,7 @@
 
 ---
 
-## :wrench:  Skills and Tools  :wrench:
+## :wrench:  Skills and Tools
 
 These are the languages, frameworks and tools that I have been using:  
 
@@ -25,7 +25,7 @@ These are the languages, frameworks and tools that I have been using:
 | Operating Systems | Windows | Linux | MacOS |
 ---
 
-## :computer:  My GitHub Stats & Contributions  :computer:
+## :computer:  My GitHub Stats & Contributions
 
 <div align="center">
   <a href="#">
