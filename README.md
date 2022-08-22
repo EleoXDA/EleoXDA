@@ -1,5 +1,5 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
-# Hi there👋, I am I am Eleo (a.k.a. EleoXDA and Elbay Malik)
+# **Hi there👋, I am EleoXDA (*a.k.a.* Elbay Malik)**
   
 ---
 ## :information_desk_person:  About Me
