@@ -29,13 +29,13 @@ These are the languages, frameworks and tools that I have been using:
 
 <div align="center">
   <a href="https://github.com/EleoXDA">
-    <img height="160em" src="profile-3d-contrib/pie_lang_only.svg"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA"/>
+    <img height="180em" src="profile-3d-contrib/pie_lang_only.svg"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=false&hide_title=false"/>
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/EleoXDA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=false&hide_title=false"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact"/>
     <img height="220em" src="profile-3d-contrib/radar_contrib_only.svg"/>
   </a>
 </div>
