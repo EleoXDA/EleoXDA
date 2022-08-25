@@ -35,7 +35,7 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="https://github.com/EleoXDA">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"/>
     <img height="220em" src="profile-3d-contrib/radar_contrib_only.svg"/>
   </a>
 </div>
