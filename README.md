@@ -28,24 +28,24 @@ These are the languages, frameworks and tools that I have been using:
 ## :computer:  My GitHub Stats & Contributions
 
 <div align="center">
-  <a href="https://github.com/EleoXDA">
+  <a href="#">
     <img height="180em" src="profile-3d-contrib/pie_lang_only.svg"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=false&hide_title=false"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/EleoXDA">
+  <a href="#">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"/>
     <img height="220em" src="profile-3d-contrib/radar_contrib_only.svg"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/EleoXDA">
+  <a href="#">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/>
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/EleoXDA">
+  <a href="#">
   <img width="1000em" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
   </a>
 </div>
