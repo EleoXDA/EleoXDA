@@ -41,7 +41,7 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="#">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/>
+    <!--img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/-->
   </a>
 </div>
 <div align="center">
