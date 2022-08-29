@@ -41,11 +41,6 @@ These are the languages, frameworks and tools that I have been using:
 </div>
 <div align="center">
   <a href="#">
-    <!--img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EleoXDA&theme=white"/-->
-  </a>
-</div>
-<div align="center">
-  <a href="#">
   <img width="1000em" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
   </a>
 </div>
