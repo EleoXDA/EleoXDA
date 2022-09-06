@@ -8,7 +8,7 @@
 - I started with simple Bash & XML, and currently expanded my programming knowledge to Kotlin and Flutter. Expecting to receive Associate Android developer certificate from Google.
 - I also am developing my FullStack side by joining full-time Le Wagon bootcamp on RubyOnRails (Ruby+SQL+HTML+CSS+JavaScript+Rails)
 - My next stop is learning Swift for iOS development.
-- I’m looking to expand my collaborations on cross-platform and native mobile development
+- I’m looking to expand my collaborations on cross-platform and/or native development
 
 ---
 
