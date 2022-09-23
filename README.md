@@ -3,10 +3,10 @@
   
 ---
 ## :information_desk_person:  About Me
-#### I am a mobile developer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices. Following that:
+#### I am a mobile engineer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices. Following that:
 
 - I started with simple Bash & XML, and currently expanded my programming knowledge to Kotlin and Flutter. Expecting to receive Associate Android developer certificate from Google.
-- I also am developing my FullStack side by joining full-time Le Wagon bootcamp on RubyOnRails (Ruby+SQL+HTML+CSS+JavaScript+Rails)
+- I am also a certified FullStack developer (Le Wagon) by finishing a full-time 9-week bootcamp about Ruby,SQL,HTML,CSS,JS and Rails, with 2 projects at the end.
 - My next stop is learning Swift for iOS development.
 - I’m looking to expand my collaborations on cross-platform and/or native development
 
@@ -19,8 +19,8 @@ These are the languages, frameworks and tools that I have been using:
 
 | | Proficient | Competent | Beginner |
 | :-: | :-: | :-: | :-: |
-| Languages | Kotlin | Bash, CSS, Dart, HTML, Ruby, SQL, XML | JavaScript, Java, Swift |
-| Frameworks | | Flutter, Rails | Bootstrap, Tailwind, Sass, YAML |
+| Languages | Kotlin | Bash, CSS, Dart, HTML, JavaScript, Ruby, SQL, XML | Java, Swift |
+| Frameworks | | Bootstrap, Flutter, Rails, SASS/SCSS, YAML | Tailwind |
 | Tools | Android Studio, IntelliJ IDEA, VSCode | Visual Studio | XCode |
 | Operating Systems | Windows | Linux | MacOS |
 ---
@@ -34,6 +34,9 @@ These are the languages, frameworks and tools that I have been using:
 <div align="center">
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"/>
     <img height="220em" src="profile-3d-contrib/radar_contrib_only.svg"/>
+</div>
+<div align="center">
+    <img height="220em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"/>
 </div>
 <div align="center">
   <img width="1000em" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
