@@ -51,7 +51,7 @@
  <table>
     <thead>
     <tr>
-      <th colspan="7">Operation Systems</th>
+      <th colspan="7">Operating Systems</th>
     </tr>
   </thead>
    <tr>
