@@ -28,11 +28,12 @@
  <table>
     <thead>
     <tr>
-      <th colspan="7">Frameworks</th>
+      <th colspan="4">Frameworks</th>
+      <th colspan="3">Agile Methodologies</th>
     </tr>
   </thead>
    <tr>
-    <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> </td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117905-0cb22147-a511-4400-b3f1-ebffcab78723.png"/></td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117905-0cb22147-a511-4400-b3f1-ebffcab78723.png"/></td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117905-0cb22147-a511-4400-b3f1-ebffcab78723.png"/></td>
+    <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> </td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
   </tr>
  </table>
  <table>
