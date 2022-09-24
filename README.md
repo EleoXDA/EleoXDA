@@ -3,32 +3,50 @@
   
 ---
 ## :information_desk_person:  About Me
-#### I am a mobile engineer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. I am advanced in QA and Junior in Android Development. I have edited several apps and have worked with custom ROM/firmware for several devices. Following that:
+#### I am a mobile engineer (kotlin, flutter,...swift). My journey started on XDA Developers Forum in 2012. Following that:
 
-- I started with simple Bash & XML, and currently expanded my programming knowledge to Kotlin and Flutter. Expecting to receive Associate Android developer certificate from Google.
-- I am also a certified FullStack developer (Le Wagon) by finishing a full-time 9-week bootcamp about Ruby,SQL,HTML,CSS,JS and Rails, with 2 projects at the end.
+- I started my journey by learning Bash and XML, whilst contributing to other developer's works
+- Following that, I expanded my programming knowledge to Kotlin and Flutter (expecting to receive Associate Android developer certificate from Google soon)
+- I am also a certified FullStack developer (Le Wagon) - graduated from a full-time 9-week web development bootcamp learning Ruby,SQL,HTML,CSS,JS (and many others), with 2 Rails projects released at the end.
 - My next stop is learning Swift for iOS development.
 - I’m looking to expand my collaborations on cross-platform and/or native development
 
 ---
 
 ## :wrench:  Skills and Tools
-
+<div align="center">
 <table>
+  <thead>
+    <tr>
+      <th colspan="7">Languages</th>
+    </tr>
+  </thead>
   <tr>
-    <td>Languages</td>
-    <td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
-  </tr> 
-   <tr>
-    <td>Frameworks</td>
-    <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> </td>
+    <td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td></tr><tr><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
   </tr>
-     <tr>
-    <td>Tools</td>
-    <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td></tr><tr><td>...</td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/>
+ </table>
+ <table>
+    <thead>
+    <tr>
+      <th colspan="7">Frameworks</th>
+    </tr>
+  </thead>
+   <tr>
+    <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/> </td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117905-0cb22147-a511-4400-b3f1-ebffcab78723.png"/></td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117905-0cb22147-a511-4400-b3f1-ebffcab78723.png"/></td><td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117905-0cb22147-a511-4400-b3f1-ebffcab78723.png"/></td>
+  </tr>
+ </table>
+ <table>
+   <thead>
+   <tr>
+     <th colspan="7">Tools</th>
+    </tr>
+  </thead>
+  <tr>
+    <td><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> </td></tr><tr><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td></tr><tr><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td></tr><tr><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td><td> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/> <td><img height=50 src="https://user-images.githubusercontent.com/27622683/192117568-d41c0ae6-629e-4215-b7ac-2059ae1b14fa.png"/></td>
     </td> 
   </tr>
 </table>
+</div>
 
 ---
 
