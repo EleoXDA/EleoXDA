@@ -25,19 +25,24 @@ These are the languages, frameworks and tools that I have been using:
 | Operating Systems | Windows | Linux | MacOS |
 ---
 
-## :computer:  My GitHub Stats & Contributions
-
+## :computer:  My GitHub Stats
 <div align="center">
-    <img height="180em" src="profile-3d-contrib/pie_lang_only.svg"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EleoXDA&count_private=true&show_icons=false&theme=vue&hide_rank=true&include_all_commits=false&hide_title=false"/>
-</div>
-<div align="center">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"/>
+     <!--img height="180em" src="profile-3d-contrib/pie_lang_only.svg"-->
     <img height="220em" src="profile-3d-contrib/radar_contrib_only.svg"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eleoxda&theme=github"/>
 </div>
 <div align="center">
-    <img height="220em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eleoxda"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eleoxda"/>
 </div>
 <div align="center">
-  <img width="1000em" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
+    <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
+</div>
+<div align="center">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"/>
+</div>
+
+## :abacus: Last 30 days of Contributions
+<div align="center">
+  <img width="1000em" style="margin-top: 0px" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/>
 </div>
