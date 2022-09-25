@@ -1,10 +1,4 @@
  [
-   {
-    "type": "pie_lang_only",
-    "fileName": "pie_lang_only.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#000000"
-  },
   {
     "type": "radar_contrib_only",
     "fileName": "radar_contrib_only.svg",
@@ -12,24 +6,6 @@
     "foregroundColor": "#000000",
     "weakColor": "gray",
     "radarColor": "#47a042"
-  },
-
-  {
-    "type": "normal",
-    "fileName": "profile-custom-evergreen.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#00000f",
-    "strongColor": "#111133",
-    "weakColor": "gray",
-    "radarColor": "#47a042",
-    "growingAnimation": true,
-    "contribColors": [
-      "#efefef",
-      "#d8e887",
-      "#8cc569",
-      "#47a042",
-      "#1d6a23"
-    ]
   },
   {
     "type": "rainbow",
@@ -42,13 +18,13 @@
     "growingAnimation": true,
     "saturation": "50%",
     "contribLightness": [
+      "1%",
+      "5%",
+      "10%",
       "20%",
-      "30%",
-      "35%",
-      "40%",
-      "50%"
+      "30%"
     ],
-    "duration": "10s",
-    "hueRatio": -7
+    "duration": "2s",
+    "hueRatio": -5
   }
 ]
