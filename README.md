@@ -6,8 +6,8 @@
 #### I am a junior mobile developer/fullstack web developer. My journey started on XDA Developers Forum in 2012. Following that:
 
 - I started learning Bash and XML, whilst contributing to other developer's works.
-- Following that, I expanded my programming knowledge to Kotlin and Flutter (expecting to receive Associate Android developer certificate from Google soon).
-- I am also a certified FullStack Web developer - graduated from a full-time 9-week web development bootcamp (Le Wagon) learning Ruby, SQL, HTML, CSS, JS (and many others) with 2 Rails projects (https://www.devwork.team and https://www.socialize.tech) released at the end.
+- After that, I expanded my programming knowledge to Kotlin and Flutter (expecting to receive Associate Android developer certificate from Google soon).
+- Recently, I became a certified FullStack Web developer - graduated from a full-time 9-week web development bootcamp (Le Wagon) learning Ruby, SQL, HTML, CSS, JS (and many others) with 2 Rails projects (https://www.devwork.team and https://www.socialize.tech) released at the end.
 - My next stop is learning Swift for MacOS/iOS development to improve versatility of codes and cross-platform competency
 - I’m looking to expand my collaborations on native and/or cross-platform development.
 
