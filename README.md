@@ -3,7 +3,7 @@
   
 ---
 ## :information_desk_person:  About Me
-#### I am a junior mobile engineer/developer. My journey started on XDA Developers Forum in 2012. Following that:
+#### I am a junior mobile developer/fullstack web developer. My journey started on XDA Developers Forum in 2012. Following that:
 
 - I started learning Bash and XML, whilst contributing to other developer's works.
 - Following that, I expanded my programming knowledge to Kotlin and Flutter (expecting to receive Associate Android developer certificate from Google soon).
