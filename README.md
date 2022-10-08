@@ -83,6 +83,16 @@
 ## :abacus: Last 7 days of Language usage
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   12 hrs 37 mins  ████████▒░░░░░░░░░░░░░░░░   32.98 %
+HTML         7 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Ruby         6 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
+Markdown     4 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+ERB          4 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+XML          2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+```
+
 <!--END_SECTION:waka-->
 
 ## :abacus: Last 30 days of Contributions
