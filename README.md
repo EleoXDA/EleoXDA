@@ -85,12 +85,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   12 hrs 37 mins  ████████▒░░░░░░░░░░░░░░░░   32.98 %
-HTML         7 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-Ruby         6 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-Markdown     4 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-ERB          4 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-XML          2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+From: 30 September 2022 - To: 07 October 2022
+
+Total Time: 38 hrs 15 mins
+
+JavaScript   12 hrs 37 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.98 %
+HTML         7 hrs 4 mins    ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.50 %
+Ruby         6 hrs 27 mins   ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.89 %
+Markdown     4 hrs 38 mins   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.11 %
+ERB          4 hrs 8 mins    ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.83 %
+XML          2 hrs 3 mins    ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.36 %
 ```
 
 <!--END_SECTION:waka-->
