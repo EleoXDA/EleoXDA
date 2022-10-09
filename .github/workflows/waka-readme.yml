@@ -21,3 +21,4 @@ jobs:
           SHOW_TOTAL: true
           SHOW_TITLE: true
           COMMIT_MESSAGE: update wakatime stats
+          TIME_RANGE: all_time
