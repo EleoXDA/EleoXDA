@@ -109,6 +109,6 @@ XML          59 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img width="1000em" style="margin-top: 0px" src="./profile-3d-contrib/profile-custom-rainbow.svg"/>
 </div>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<div align="left">
     <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
-</a>
+</div>
