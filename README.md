@@ -1,4 +1,7 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=EleoXDA.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
+</div>
+
 # **Hi there👋, I am EleoXDA (*a.k.a.* Elbay Malik)**
   
 ---
@@ -107,8 +110,4 @@ XML          59 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## :abacus: Last Year of Contributions
 <div align="center">
   <img width="1000em" style="margin-top: 0px" src="./profile-3d-contrib/profile-custom-rainbow.svg"/>
-</div>
-
-<div align="left">
-    <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
 </div>
