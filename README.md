@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
 </div>
 
-# **Hi there👋, I am EleoXDA (*a.k.a.* Elbay Malik)**
+# **Hi there👋, I am Elbay Malik (*a.k.a.* EleoXDA)**
   
 ---
 ## :information_desk_person:  About Me
