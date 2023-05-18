@@ -11,9 +11,10 @@
 - I started learning Bash and XML, whilst contributing to other developer's works.
 - After that, I expanded my programming knowledge to Kotlin and Flutter.
 - Recently, I became a certified FullStack Web developer - graduated from a full-time 9-week web development bootcamp (Le Wagon) learning Ruby, SQL, HTML, CSS, JS (and many others) with 2 Rails projects hosted on Heroku (https://www.devwork.team and https://www.socialize.tech) released at the end.
-- My next stop is learning Swift for MacOS/iOS development to improve versatility of codes and cross-platform competency
+- Currently I am trying to enhance my Javascript skills and improve my knowledge about different Javascript frameworks (Node.JS, Vue.JS and Svelte).
+- My next stop is learning Swift for MacOS/iOS development to improve versatility of codes and cross-platform competency.
 - I’m looking to expand my collaborations on native and/or cross-platform development.
-- Currently I freelance with projects ranging from android/cross-platform apps to Ruby(onRails)/JavaScript applets.
+- For the time being I freelance with projects ranging from android/cross-platform apps to Ruby(onRails)/JavaScript applets.
 
 ---
 
