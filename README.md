@@ -26,7 +26,32 @@
       <th colspan="7">Languages</th>
     </tr>
   </thead>
-  <tr> <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td></tr><tr> <td align="center" width=110>Kotlin</td><td align="center" width=110>Ruby</td><td align="center" width=110>Dart</td><td align="center" width=110>JavaScript</td><td align="center" width=110>CSS</td><td align="center" width=110>HTML</td><td align="center" width=110>PostgreSQL</td></tr><tr><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td><td align="center" width=110> <img width=60 src="https://user-images.githubusercontent.com/27622683/192120006-9901e9c3-7567-4c2b-85b9-b414dc8445cb.png"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </td><tr> <td align="center" width=110>SQLite</td><td align="center" width=110>Ba$h</td><td align="center" width=110>XML</td><td align="center" width=110>Markdown</td><td align="center" width=110>Node.JS</td><td align="center" width=110>Svelte</td><td align="center" width=110>Typescript</td></tr>
+  <tr>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
+  </tr>
+  <tr>
+   <td align="center" width=110>Kotlin</td>
+   <td align="center" width=110>Ruby</td>
+   <td align="center" width=110>Dart</td>
+   <td align="center" width=110>JavaScript</td>
+   <td align="center" width=110>CSS</td>
+   <td align="center" width=110>HTML</td>
+   <td align="center" width=110>PostgreSQL</td>
+  </tr>
+    <tr><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td><td align="center" width=110> <img width=60 src="https://user-images.githubusercontent.com/27622683/192120006-9901e9c3-7567-4c2b-85b9-b414dc8445cb.png"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> </td><tr> <td align="center" width=110>SQLite</td><td align="center" width=110>Ba$h</td><td align="center" width=110>XML</td><td align="center" width=110>Markdown</td><td align="center" width=110>Node.JS</td><td align="center" width=110>Svelte</td><td align="center" width=110>Typescript</td></tr>
  </table>
 
  <table>
