@@ -241,7 +241,7 @@
     <!--img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleoXDA&langs_count=10&layout=compact&hide=c%2B%2B,CMake,C"-->
 <!--/div-->
 <div align="center">
-    <!--img width="500em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)"-->
+    <img width="500em" src="https://streak-stats.demolab.com/?user=EleoXDA&currStreakNum=000000&fire=orange&sideLabels=000date_format=[Y.]n.j)">
 </div>
 
 <!--## :abacus: Last 30 days of Contributions-->
