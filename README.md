@@ -142,7 +142,32 @@
     <td align="center" width=110>GitHub</td>
     <td align="center" width=110>GitLab</td>
    </tr>
-   <tr><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td></tr><tr> <td align="center" width=110>Android Studio</td><td align="center" width=110>IntelliJ</td><td align="center" width=110>VSCode</td><td align="center" width=110>Visual Studio</td><td align="center" width=110>Vim</td><td align="center" width=110>Google Cloud</td><td align="center" width=110>CodePen</td></tr><tr><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td></tr><tr> <td align="center" width=110>Docker</td><td align="center" width=110>ESLint</td><td align="center" width=110>Gradle</td><td align="center" width=110>Jenkins</td><td align="center" width=110>JetBrains</td><td align="center" width=110>Jira</td><td align="center" width=110>Yarn</td></tr>
+   <tr>
+     <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/></td>
+   </tr>
+   <tr>
+    <td align="center" width=110>Android Studio</td>
+    <td align="center" width=110>IntelliJ</td>
+    <td align="center" width=110>VSCode</td>
+    <td align="center" width=110>Visual Studio</td>
+    <td align="center" width=110>Vim</td>
+    <td align="center" width=110>Google Cloud</td>
+    <td align="center" width=110>CodePen</td>
+   </tr>
+   <tr><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td></tr><tr> <td align="center" width=110>Docker</td><td align="center" width=110>ESLint</td><td align="center" width=110>Gradle</td><td align="center" width=110>Jenkins</td><td align="center" width=110>JetBrains</td><td align="center" width=110>Jira</td><td align="center" width=110>Yarn</td></tr>
 </table>
  <table>
     <thead>
