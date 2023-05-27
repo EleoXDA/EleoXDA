@@ -26,13 +26,7 @@
       <th colspan="7">Languages</th>
     </tr>
   </thead>
-  <tr>
-   <td align="center" width=110>
-   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
-   <td align="center" width=110>
-   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
-   <td align="center" width=110>
-   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
+ <tr>
    <td align="center" width=110>
    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
    <td align="center" width=110>
@@ -40,18 +34,24 @@
    <td align="center" width=110>
    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></td>
    <td align="center" width=110>
-   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></td>
+   <td align="center" width=110>
+   <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
   </tr>
   <tr>
-   <td align="center" width=110>Kotlin</td>
-   <td align="center" width=110>Ruby</td>
-   <td align="center" width=110>Dart</td>
    <td align="center" width=110>JavaScript</td>
    <td align="center" width=110>CSS</td>
    <td align="center" width=110>HTML</td>
-   <td align="center" width=110>PostgreSQL</td>
+   <td align="center" width=110>Typescript</td>
+   <td align="center" width=110>Node.JS</td>
+   <td align="center" width=110>Svelte</td>
+   <td align="center" width=110>Dart</td>
   </tr>
-    <tr>
+  <tr>
    <td align="center" width=110>
    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></td>
    <td align="center" width=110>
