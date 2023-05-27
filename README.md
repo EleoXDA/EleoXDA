@@ -167,7 +167,30 @@
     <td align="center" width=110>Google Cloud</td>
     <td align="center" width=110>CodePen</td>
    </tr>
-   <tr><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td><td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td></tr><tr> <td align="center" width=110>Docker</td><td align="center" width=110>ESLint</td><td align="center" width=110>Gradle</td><td align="center" width=110>Jenkins</td><td align="center" width=110>JetBrains</td><td align="center" width=110>Jira</td><td align="center" width=110>Yarn</td></tr>
+   <tr>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></td>
+    <td align="center" width=110>
+    <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
+   </tr>
+   <tr>
+    <td align="center" width=110>Docker</td>
+    <td align="center" width=110>ESLint</td>
+    <td align="center" width=110>Gradle</td>
+    <td align="center" width=110>Jenkins</td>
+    <td align="center" width=110>JetBrains</td>
+    <td align="center" width=110>Jira</td>
+    <td align="center" width=110>Yarn</td></tr>
 </table>
  <table>
     <thead>
