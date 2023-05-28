@@ -48,7 +48,7 @@
    <td align="center" width=110>HTML</td>
    <td align="center" width=110>Typescript</td>
    <td align="center" width=110>Node.JS</td>
-   <td align="center" width=110>Svelte</td>
+   <td align="center" width=110>Vue.JS</td>
    <td align="center" width=110>Dart</td>
   </tr>
     <tr>
