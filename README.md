@@ -61,7 +61,7 @@
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/></td>
+     <img height=60 src="images/bash.svg"/></td>
      <td align="center" width=110>
      <img width=60 src="https://user-images.githubusercontent.com/27622683/192120006-9901e9c3-7567-4c2b-85b9-b414dc8445cb.png"/> </td>
      <td align="center" width=110>
@@ -128,7 +128,7 @@
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></td>
+     <img height=60 src="images/github.svg"/></td>
       <td align="center" width=110> 
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></td>
      </tr>
@@ -172,9 +172,9 @@
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/></td>
+     <img height=60 src="images/gradle.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/></td>
+     <img height=60 src="images/jenkins.svg"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
       <td align="center" width=110>
