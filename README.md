@@ -40,7 +40,7 @@
      <td align="center" width=110>
      <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
+     <img height=60 src="images/react.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>JavaScript</td>
@@ -49,9 +49,11 @@
      <td align="center" width=110>Typescript</td>
      <td align="center" width=110>Node.JS</td>
      <td align="center" width=110>Vue.JS</td>
-     <td align="center" width=110>Dart</td>
+     <td align="center" width=110>React.JS</td>
     </tr>
     <tr>
+     <td align="center" width=110>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
      <td align="center" width=110>
@@ -63,17 +65,15 @@
      <td align="center" width=110>
      <img height=60 src="images/bash.svg"/></td>
      <td align="center" width=110>
-     <img width=60 src="https://user-images.githubusercontent.com/27622683/192120006-9901e9c3-7567-4c2b-85b9-b414dc8445cb.png"/> </td>
-     <td align="center" width=110>
      <img height=60 src="images/markdown.svg"/></td>
     </tr>
     <tr>
+     <td align="center" width=110>Dart</td>
      <td align="center" width=110>Kotlin</td>
      <td align="center" width=110>Ruby</td>
      <td align="center" width=110>SQLite</td>
      <td align="center" width=110>PostgreSQL</td>
      <td align="center" width=110>Ba$h</td>
-     <td align="center" width=110>XML</td>
      <td align="center" width=110>Markdown</td>
     </tr>
   </table>
@@ -207,9 +207,9 @@
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></td>
+     <img height=60 src="images/ios.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/></td>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></td>
      </td><td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></td>
     </tr>
@@ -218,8 +218,8 @@
      <td align="center" width=110>Linux</td>
      <td align="center" width=110>MacOS</td>
      <td align="center" width=110>Android</td>
+     <td align="center" width=110>iOS</td>
      <td align="center" width=110>Ubuntu</td>
-     <td align="center" width=110>Debian</td>
      <td align="center" width=110>ChromeOS</td>
     </tr>
   </table>
