@@ -197,29 +197,29 @@
         <th colspan="7">Operating Systems</th>
       </tr>
     </thead>
-    <tr>
+<tr>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
+     <td align="center" width=110>
+     <img height=60 src="images/mac.svg"/>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg"/>
      </td><td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>Windows</td>
      <td align="center" width=110>Linux</td>
+     <td align="center" width=110>MacOS</td>
      <td align="center" width=110>Android</td>
      <td align="center" width=110>Ubuntu</td>
      <td align="center" width=110>Debian</td>
-     <td align="center" width=110>Fedora</td>
      <td align="center" width=110>ChromeOS</td>
     </tr>
   </table>
