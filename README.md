@@ -65,7 +65,7 @@
      <td align="center" width=110>
      <img width=60 src="https://user-images.githubusercontent.com/27622683/192120006-9901e9c3-7567-4c2b-85b9-b414dc8445cb.png"/> </td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/></td>
+     <img height=60 src="images/markdown.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>Kotlin</td>
