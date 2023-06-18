@@ -178,7 +178,7 @@
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
       <td align="center" width=110>
-      <img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
+     <img height=60 src="images/tdd.png"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
      </tr>
