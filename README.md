@@ -155,7 +155,7 @@
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/></td>
+     <img height=60 src="images/codepen.svg"/></td>
      </tr>
      <tr>
       <td align="center" width=110>Android Studio</td>
