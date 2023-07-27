@@ -40,7 +40,7 @@
      <td align="center" width=110>
      <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
      <td align="center" width=110>
-     <img height=70 src="images/react.svg"/></td>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>JavaScript</td>
@@ -49,7 +49,7 @@
      <td align="center" width=110>Typescript</td>
      <td align="center" width=110>Node. JS</td>
      <td align="center" width=110>Vue. JS</td>
-     <td align="center" width=110>React. JS</td>
+     <td align="center" width=110>Svelte</td>
     </tr>
     <tr>
      <td align="center" width=110>
@@ -63,9 +63,9 @@
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="images/bash.svg"/></td>
+      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
      <td align="center" width=110>
-     <img height=70 src="images/markdown.svg"/></td>
+      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>Dart</td>
@@ -73,43 +73,10 @@
      <td align="center" width=110>Ruby</td>
      <td align="center" width=110>SQLite</td>
      <td align="center" width=110>PostgreSQL</td>
-     <td align="center" width=110>Bash</td>
-     <td align="center" width=110>Markdown</td>
-    </tr>
-  </table>
-
-  <table>
-      <thead>
-      <tr>
-        <th colspan="4">Frameworks</th>
-        <th colspan="3">Agile Methodologies</th>
-      </tr>
-    </thead>
-     <tr>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></td>
-      <td align="center" width=110>
-     <img height=70 src="images/scrum.svg"/></td>
-      <td align="center" width=110>
-      <img width=60 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></td>
-      <tr align="center">
-      <td align="center" width=110>Svelte</td>
       <td align="center" width=110>Flutter</td>
       <td align="center" width=110>Rails</td>
-      <td align="center" width=110>Bootstrap</td>
-      <td align="center" width=110>Scrum</td>
-      <td align="center" width=110>Kanban</td>
-      <td align="center" width=110>Jira</td>
-     </tr>
-   </table>
+    </tr>
+  </table>
    <table>
      <thead>
       <tr>
@@ -121,10 +88,10 @@
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/></td>
+      <td align="center" width=110>
+      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
       <td align="center" width=110> 
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
       <td align="center" width=110>
@@ -135,8 +102,8 @@
      <tr>
       <td align="center" width=110>WebPack</td>
       <td align="center" width=110>Heroku</td>
+      <td align="center" width=110>Docker</td>
       <td align="center" width=110>Figma</td>
-      <td align="center" width=110>RSpec</td>
       <td align="center" width=110>Git</td>
       <td align="center" width=110>GitHub</td>
       <td align="center" width=110>GitLab</td>
@@ -151,45 +118,46 @@
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/></td>
+      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
       <td align="center" width=110>
-     <img height=70 src="images/codepen.svg"/></td>
+      <img height=70 src="images/codepen.svg"/></td>
      </tr>
      <tr>
       <td align="center" width=110>Android Studio</td>
       <td align="center" width=110>IntelliJ</td>
       <td align="center" width=110>VSCode</td>
       <td align="center" width=110>Visual Studio</td>
-      <td align="center" width=110>Vim</td>
+      <td align="center" width=110>Yarn</td>
       <td align="center" width=110>Google Cloud</td>
       <td align="center" width=110>CodePen</td>
      </tr>
      <tr>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
+      <img height=60 src="images/gradle.svg"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg"/></td>
-      <td align="center" width=110>
-     <img height=60 src="images/gradle.svg"/></td>
-      <td align="center" width=110>
-     <img height=70 src="images/jenkins.svg"/></td>
+      <img height=70 src="images/jenkins.svg"/></td>
       <td align="center" width=110>
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
       <td align="center" width=110>
-     <img height=60 src="images/tdd.png"/></td>
+      <img height=60 src="images/tdd.png"/></td>
       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
+      <img height=70 src="images/scrum.svg"/></td>
+      <td align="center" width=110>
+      <img width=60 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td>
+      <td align="center" width=110>
+      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></td>
      </tr>
      <tr>
-      <td align="center" width=110>Docker</td>
-      <td align="center" width=110>ESLint</td>
       <td align="center" width=110>Gradle</td>
       <td align="center" width=110>Jenkins</td>
       <td align="center" width=110>JetBrains</td>
       <td align="center" width=110>T.D.D.</td>
-      <td align="center" width=110>Yarn</td></tr>
+      <td align="center" width=110>Scrum</td>
+      <td align="center" width=110>Kanban</td>
+      <td align="center" width=110>Jira</td>
+     </tr>
   </table>
   <table>
     <thead>
@@ -197,7 +165,7 @@
         <th colspan="7">Operating Systems</th>
       </tr>
     </thead>
-<tr>
+    <tr>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></td>
      <td align="center" width=110>
