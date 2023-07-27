@@ -1,29 +1,22 @@
-<div align="left">
+<div align="right">
     <img src="https://komarev.com/ghpvc/?username=EleoXDA&style=for-the-badge">
 </div>
 
-# **Hi there👋, I am Elbay Malik (*a.k.a.* EleoXDA)**
-  
 ---
+
 ## :information_desk_person:  About Me
-#### I am a fullstack developer. My journey started on XDA Developers Forum in 2012. Following that:
-
-- I started learning Bash and XML, whilst contributing to other developer's works.
-- After that, I expanded my programming knowledge to Kotlin and Flutter.
-- Recently, I became a certified FullStack Web developer - graduated from a full-time 9-week web development bootcamp (Le Wagon) learning Ruby, SQL, HTML, CSS, JS (and many others) with 2 Rails projects hosted on Heroku (https://www.devwork.team and https://www.socialize.tech) released at the end.
-- Currently I am trying to enhance my Javascript skills and improve my knowledge about different Javascript frameworks (Node.JS, Vue.JS and Svelte).
-- My next stop is learning Swift for MacOS/iOS development to improve versatility of codes and cross-platform competency.
-- I’m looking to expand my collaborations on native and/or cross-platform development.
-- For the time being I freelance with projects ranging from android/cross-platform apps to Ruby(onRails)/JavaScript applets.
-
+#### &dot I am a certified FullStack developer. Have experiences in both Mobile and Web development.
+#### Currently available for freelance and open-source projects.
+#### My programming experience is summarized in Table below.
+#### I’m looking to expand my collaborations on native and/or cross-platform development.
+#### Contact me through my <a href="mailto:elbay.malik@gmail.com">Email</a> address for further details.
 ---
-
 ## :wrench:  Skills and Tools
 <div align="center">
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="7">Languages & Frameworks</th>
       </tr>
     </thead>
     <tr>
