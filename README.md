@@ -33,7 +33,7 @@
      <td align="center" width=110>
      <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"/></td>
+     <img height=70 src="images/nuxt.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>JavaScript</td>
@@ -42,7 +42,7 @@
      <td align="center" width=110>Typescript</td>
      <td align="center" width=110>Node. JS</td>
      <td align="center" width=110>Vue. JS</td>
-     <td align="center" width=110>Svelte</td>
+     <td align="center" width=110>Nuxt. JS</td>
     </tr>
     <tr>
      <td align="center" width=110>
