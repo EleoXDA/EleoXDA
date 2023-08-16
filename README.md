@@ -40,7 +40,7 @@
      <td align="center" width=110>CSS</td>
      <td align="center" width=110>HTML</td>
      <td align="center" width=110>Typescript</td>
-     <td align="center" width=110>Node. JS</td>
+     <td align="center" width=110>React. JS</td>
      <td align="center" width=110>Vue. JS</td>
      <td align="center" width=110>Nuxt. JS</td>
     </tr>
@@ -61,10 +61,10 @@
       <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
     </tr>
     <tr>
+     <td align="center" width=110>Next. JS</td>
      <td align="center" width=110>Dart</td>
-     <td align="center" width=110>Kotlin</td>
      <td align="center" width=110>Ruby</td>
-     <td align="center" width=110>SQLite</td>
+     <td align="center" width=110>Node. JS</td>
      <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>Flutter</td>
       <td align="center" width=110>Rails</td>
