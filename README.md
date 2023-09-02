@@ -23,51 +23,51 @@
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></td>
-     <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
+     <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></td>
+     <td align="center" width=110>
+     <img height=60 src="images/next-js.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
-     <td align="center" width=110>
+     <td align="center" width=110>'
      <img height=70 src="images/nuxt.svg"/></td>
+     <td align="center" width=110>
+              <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>JavaScript</td>
-     <td align="center" width=110>CSS</td>
-     <td align="center" width=110>HTML</td>
      <td align="center" width=110>Typescript</td>
      <td align="center" width=110>React. JS</td>
+     <td align="center" width=110>Next. JS</td>
      <td align="center" width=110>Vue. JS</td>
      <td align="center" width=110>Nuxt. JS</td>
+     <td align="center" width=110>Node. JS</td>
     </tr>
     <tr>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/></td>
+     <img height=60 src="images/mysql.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
     </tr>
     <tr>
-     <td align="center" width=110>Next. JS</td>
      <td align="center" width=110>Dart</td>
-     <td align="center" width=110>Ruby</td>
-     <td align="center" width=110>Node. JS</td>
+     <td align="center" width=110>Flutter</td>
+     <td align="center" width=110>MySQL</td>
      <td align="center" width=110>PostgreSQL</td>
-      <td align="center" width=110>Flutter</td>
+     <td align="center" width=110>Ruby</td>
       <td align="center" width=110>Rails</td>
+      <td align="center" width=110>Kotlin</td>
     </tr>
   </table>
    <table>
