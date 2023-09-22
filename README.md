@@ -5,11 +5,11 @@
 ---
 
 ## :information_desk_person:  About Me
-#### I am a certified FullStack developer. Have experiences in both Mobile and Web development.
-#### Currently available for freelance and open-source projects.
-#### My programming experience is summarized in Table below.
-#### I’m looking to expand my collaborations on native and/or cross-platform development.
-#### Contact me through my <a href="mailto:elbay.malik@gmail.com">Email</a> address for further details.
+- I am a certified FullStack developer. Have experiences in both Mobile and Web development.
+- Currently available for freelance and open-source projects.
+- My programming experience is summarized in Table below.
+- I’m looking to expand my workspace with new projects.
+- Contact me through my <a href="mailto:elbay.malik@gmail.com">Email</a> address for further details.
 ---
 ## :wrench:  Skills and Tools
 <div align="center">
