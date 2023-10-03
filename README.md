@@ -31,7 +31,7 @@
      <img height=60 src="images/next-js.svg"/></td>
      <td align="center" width=110>
      <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
-     <td align="center" width=110>'
+     <td align="center" width=110>
      <img height=70 src="images/nuxt.svg"/></td>
      <td align="center" width=110>
               <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
