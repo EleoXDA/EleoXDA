@@ -8,7 +8,7 @@
 - I am a certified FullStack developer. Have experiences in both Mobile and Web development.
 - Currently available for freelance and open-source projects.
 - My programming experience is summarized in Table below.
-- Currently I am a front-end (Vue.JS/Nuxt.JS) developer in stagedates GmbH
+- Currently I am a front-end (Vue.JS) developer in stagedates GmbH
 - I’m looking to expand my workspace with new projects.
 - Contact me through my <a href="mailto:elbay.malik@gmail.com">Email</a> address for further details.
 ---
