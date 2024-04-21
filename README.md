@@ -26,23 +26,23 @@
      <td align="center" width=110>
      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
      <td align="center" width=110>
-     <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="images/next-js.svg"/></td>
-     <td align="center" width=110>
      <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
      <td align="center" width=110>
      <img height=70 src="images/nuxt.svg"/></td>
      <td align="center" width=110>
-              <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
+     <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></td>
+     <td align="center" width=110>
+     <img height=60 src="images/next-js.svg"/></td>
+     <td align="center" width=110>
+     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>JavaScript</td>
      <td align="center" width=110>Typescript</td>
-     <td align="center" width=110>React. JS</td>
-     <td align="center" width=110>Next. JS</td>
      <td align="center" width=110>Vue. JS</td>
      <td align="center" width=110>Nuxt. JS</td>
+     <td align="center" width=110>React. JS</td>
+     <td align="center" width=110>Next. JS</td>
      <td align="center" width=110>Node. JS</td>
     </tr>
     <tr>
