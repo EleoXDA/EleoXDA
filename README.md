@@ -208,13 +208,3 @@
 </div>
 <div align="center">
 </div>
-
-<!--## :abacus: Last 30 days of Contributions-->
-<div align="center">
-  <!--img width="1000em" style="margin-top: 0px" src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=EleoXDA&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"-->
-</div>
-
-<!--## :abacus: Last Year of Contributions-->
-<div align="center">
-  <!--img width="1000em" style="margin-top: 0px" src="./profile-3d-contrib/profile-custom-rainbow.svg"/-->
-</div>
