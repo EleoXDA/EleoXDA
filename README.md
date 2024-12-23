@@ -5,10 +5,10 @@
 ---
 
 ## :information_desk_person:  About Me
-- I am a certified FullStack developer. Have experiences in both Mobile and Web development.
+- I am a Frontend developer with knowledge in all popular frameworks.
 - Currently available for freelance and open-source projects.
 - My programming experience is summarized in Table below.
-- Currently I am a front-end (Vue.JS) developer in stagedates GmbH
+- Currently I am a front-end (Vue) developer in ecosotag GmbH
 - I’m looking to expand my workspace with new projects.
 - Contact me through my <a href="mailto:elbay.malik@gmail.com">Email</a> address for further details.
 ---
@@ -21,54 +21,40 @@
       </tr>
     </thead>
     <tr>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
-     <td align="center" width=110>
-     <img height=70 src="images/nuxt.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="images/next-js.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></td>
+     <td align="center" width=110><img height=70 src="images/nuxt.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></td>
+     <td align="center" width=110><img height=60 src="images/next-js.svg"/></td>
+     <td align="center" width=110><img height=60 src="images/Angular.png"/></td>
     </tr>
     <tr>
      <td align="center" width=110>JavaScript</td>
      <td align="center" width=110>Typescript</td>
      <td align="center" width=110>Vue. JS</td>
-     <td align="center" width=110>Nuxt. JS</td>
-     <td align="center" width=110>React. JS</td>
-     <td align="center" width=110>Next. JS</td>
+     <td align="center" width=110>Nuxt</td>
+     <td align="center" width=110>React</td>
+     <td align="center" width=110>Next</td>
+     <td align="center" width=110>Angular</td>
+    </tr>
+    <tr>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
+    </tr>
+    <tr>
      <td align="center" width=110>Node. JS</td>
-    </tr>
-    <tr>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="images/mysql.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/></td>
-    </tr>
-    <tr>
      <td align="center" width=110>Dart</td>
      <td align="center" width=110>Flutter</td>
-     <td align="center" width=110>MySQL</td>
      <td align="center" width=110>PostgreSQL</td>
      <td align="center" width=110>Ruby</td>
-      <td align="center" width=110>Rails</td>
-      <td align="center" width=110>Kotlin</td>
+     <td align="center" width=110>Rails</td>
+     <td align="center" width=110>Kotlin</td>
     </tr>
   </table>
    <table>
@@ -78,20 +64,13 @@
       </tr>
      </thead>
      <tr>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
-      <td align="center" width=110>
-     <img height=70 src="images/github.svg"/></td>
-      <td align="center" width=110> 
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
+      <td align="center" width=110><img height=70 src="images/github.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/></td>
      </tr>
      <tr>
       <td align="center" width=110>WebPack</td>
@@ -103,20 +82,13 @@
       <td align="center" width=110>GitLab</td>
      </tr>
      <tr>
-       <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=70 src="images/codepen.svg"/></td>
+       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
+      <td align="center" width=110><img height=70 src="images/codepen.svg"/></td>
      </tr>
      <tr>
       <td align="center" width=110>Android Studio</td>
@@ -128,20 +100,13 @@
       <td align="center" width=110>CodePen</td>
      </tr>
      <tr>
-      <td align="center" width=110>
-      <img height=60 src="images/gradle.svg"/></td>
-      <td align="center" width=110>
-      <img height=70 src="images/jenkins.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
-      <td align="center" width=110>
-      <img height=60 src="images/tdd.png"/></td>
-      <td align="center" width=110>
-      <img height=70 src="images/scrum.svg"/></td>
-      <td align="center" width=110>
-      <img width=60 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td>
-      <td align="center" width=110>
-      <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="images/gradle.svg"/></td>
+      <td align="center" width=110><img height=70 src="images/jenkins.svg"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"/></td>
+      <td align="center" width=110><img height=60 src="images/tdd.png"/></td>
+      <td align="center" width=110><img height=70 src="images/scrum.svg"/></td>
+      <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119213-9a958b20-d3ba-460e-935f-dccb6a3de7e6.png"/></td>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/></td>
      </tr>
      <tr>
       <td align="center" width=110>Gradle</td>
@@ -160,20 +125,13 @@
       </tr>
     </thead>
     <tr>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=70 src="images/mac.svg"/>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="images/ios.svg"/></td>
-     <td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></td>
-     </td><td align="center" width=110>
-     <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/></td>
+     <td align="center" width=110><img height=70 src="images/mac.svg"/>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/></td>
+     <td align="center" width=110><img height=60 src="images/ios.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/></td>
+     <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/></td>
     </tr>
     <tr>
      <td align="center" width=110>Windows</td>
